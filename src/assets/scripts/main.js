@@ -16,7 +16,7 @@ let listing = new Listing({
   })
 document.querySelector('.product-listing-wrapper').appendChild(listing.getElement())
 
-
+//asdfasdfasdf
 /**
  * Использование листинга отдельно
  * Листинг может принимать слледующие параметры:
